@@ -15,17 +15,9 @@
   --color-primary-950: #141c24;
 
   /* Accent colors */
-  --color-accent-50: #faf5f0;
-  --color-accent-100: #f4ece1;
-  --color-accent-200: #e8d6bf;
-  --color-accent-300: #ddc2a2;
-  --color-accent-400: #d2af84;
+
   --color-accent-500: #c69963;
   --color-accent-600: #b78343;
-  --color-accent-700: #926835;
-  --color-accent-800: #6c4d28;
-  --color-accent-900: #4b351b;
-  --color-accent-950: #382814;
 }
 
 /* Background utility classes */
@@ -63,38 +55,11 @@
   background-color: var(--color-primary-950);
 }
 
-.bg-accent-50 {
-  background-color: var(--color-accent-50);
-}
-.bg-accent-100 {
-  background-color: var(--color-accent-100);
-}
-.bg-accent-200 {
-  background-color: var(--color-accent-200);
-}
-.bg-accent-300 {
-  background-color: var(--color-accent-300);
-}
-.bg-accent-400 {
-  background-color: var(--color-accent-400);
-}
 .bg-accent-500 {
   background-color: var(--color-accent-500);
 }
 .bg-accent-600 {
   background-color: var(--color-accent-600);
-}
-.bg-accent-700 {
-  background-color: var(--color-accent-700);
-}
-.bg-accent-800 {
-  background-color: var(--color-accent-800);
-}
-.bg-accent-900 {
-  background-color: var(--color-accent-900);
-}
-.bg-accent-950 {
-  background-color: var(--color-accent-950);
 }
 
 /* Text utility classes */
@@ -132,65 +97,13 @@
   color: var(--color-primary-950);
 }
 
-.text-accent-50 {
-  color: var(--color-accent-50);
-}
-.text-accent-100 {
-  color: var(--color-accent-100);
-}
-.text-accent-200 {
-  color: var(--color-accent-200);
-}
-.text-accent-300 {
-  color: var(--color-accent-300);
-}
-.text-accent-400 {
-  color: var(--color-accent-400);
-}
 .text-accent-500 {
   color: var(--color-accent-500);
 }
 .text-accent-600 {
   color: var(--color-accent-600);
 }
-.text-accent-700 {
-  color: var(--color-accent-700);
-}
-.text-accent-800 {
-  color: var(--color-accent-800);
-}
-.text-accent-900 {
-  color: var(--color-accent-900);
-}
-.text-accent-950 {
-  color: var(--color-accent-950);
-}
 
-/* .container {
-  max-width: 97%;
-  margin-inline: auto;
-} */
-/* Global navigation link */
-/* .nav-link {
-  transition: color 0.3s;
-}
-.nav-link:hover {
-  color: var(--color-accent-400);
-}
-
-.btn-link {
-  transition: all 0.3s;
-}
-.btn-link:hover {
-  background-color: var(--color-accent-600);
-}
-.hover-bg-accent-600:hover {
-  background-color: var(--color-accent-600);
-}
-
-.hover-text-primary-900:hover {
-  color: var(--color-primary-900);
-} */
 button {
   cursor: pointer;
 }

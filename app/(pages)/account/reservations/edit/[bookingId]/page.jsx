@@ -9,7 +9,7 @@ export default async function Page({ params }) {
 
   return (
     <div>
-      <h2 className="font-semibold text-2xl text-accent-400 mb-7">
+      <h2 className="font-semibold text-2xl text-green-500 mb-7">
         Edit Reservation #{bookingId}
       </h2>
 
